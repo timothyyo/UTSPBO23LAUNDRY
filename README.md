@@ -123,7 +123,8 @@ Saldo setelah : Rp. 100000
 
 ## Penjelasan Gambar Output
 
-![Screenshot output program](docs/output.png)
+<img width="1100" height="1206" alt="output" src="https://github.com/user-attachments/assets/3170220d-0424-4110-b869-96a69ef5a00b" />
+
 
 Gambar di atas menunjukkan contoh saat program dijalankan dengan memilih layanan **Cuci Sepatu** sebanyak **2 sepatu**.
 
